@@ -1,0 +1,4469 @@
+{
+    "emails" : [
+        {
+         "id": 1,
+         "email": "adriana.bit86@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 2,
+         "email": "adriana.bit86@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 3,
+         "email": "arr.rangel@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 4,
+         "email": "arr.rangel@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 5,
+         "email": "engcivil.alinemelo@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 6,
+         "email": "engcivil.alinemelo@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 7,
+         "email": "arq.alinerebelato@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 8,
+         "email": "arq.alinerebelato@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 9,
+         "email": "alreginato@outlook.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 10,
+         "email": "alreginato@outlook.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 11,
+         "email": "a_horibe@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 12,
+         "email": "a_horibe@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 13,
+         "email": "ana.beatriz2@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 14,
+         "email": "ana.beatriz2@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 15,
+         "email": "carolinemoraisac@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 16,
+         "email": "carolinemoraisac@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 17,
+         "email": "anacperondi@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 18,
+         "email": "anacperondi@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 19,
+         "email": "dressa.liza_@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 20,
+         "email": "dressa.liza_@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 21,
+         "email": "andressagabrielisenger@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 22,
+         "email": "andressagabrielisenger@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 23,
+         "email": "angelica_tos_22@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 24,
+         "email": "bia.nascimento.c@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 25,
+         "email": "brunna.vg@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 26,
+         "email": "brunna.vg@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 27,
+         "email": "brunacavalcante@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 28,
+         "email": "brunacavalcante@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 29,
+         "email": "irmasconcursadas@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 30,
+         "email": "irmasconcursadas@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 31,
+         "email": "camila.m.t@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 32,
+         "email": "camila.m.t@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 33,
+         "email": "camillaprado04@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 34,
+         "email": "camillaprado04@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 35,
+         "email": "carol_ncfe@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 36,
+         "email": "carol_ncfe@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 37,
+         "email": "carolinectinoco@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 38,
+         "email": "carolinectinoco@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 39,
+         "email": "chaienecapitanio@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 40,
+         "email": "chaienecapitanio@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 41,
+         "email": "cingrid.arq@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 42,
+         "email": "danielab-eng@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 43,
+         "email": "danielecss.ds@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 44,
+         "email": "danielecss.ds@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 45,
+         "email": "deborap.engcivil@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 46,
+         "email": "deborap.engcivil@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 47,
+         "email": "deborah_eng@icloud.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 48,
+         "email": "sdeborahh@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 49,
+         "email": "sdeborahh@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 50,
+         "email": "edlanemf@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 51,
+         "email": "kelltonsouza.edy@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 52,
+         "email": "ellencpba@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 53,
+         "email": "ellencpba@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 54,
+         "email": "ellencpba@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 55,
+         "email": "ericaa.moraess@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 56,
+         "email": "ericaa.moraess@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 57,
+         "email": "estelasapiencie@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 58,
+         "email": "estelasapiencie@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 59,
+         "email": "beltrao87@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 60,
+         "email": "flavia.rodrigues1212@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 61,
+         "email": "flavia.rodrigues1212@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 62,
+         "email": "biela.sousa@hotmail.com.br",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 63,
+         "email": "gabriele_macielc@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 64,
+         "email": "gabriele_macielc@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 65,
+         "email": "gabriella.labanca@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 66,
+         "email": "gabriella.labanca@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 67,
+         "email": "geisa.svoliveira@yahoo.com.br",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 68,
+         "email": "geisa.svoliveira@yahoo.com.br",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 69,
+         "email": "grazivideres@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 70,
+         "email": "grazivideres@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 71,
+         "email": "iasmin.nspita@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 72,
+         "email": "isabellasousa24@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 73,
+         "email": "isabellasousa24@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 74,
+         "email": "vistoria.jmx@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 75,
+         "email": "vistoria.jmx@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 76,
+         "email": "jeessicatai@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 77,
+         "email": "jeessicatai@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 78,
+         "email": "jessicasilvacavalcante@live.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 79,
+         "email": "jessicasilvacavalcante@live.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 80,
+         "email": "juliannepedraviva@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 81,
+         "email": "juliannepedraviva@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 82,
+         "email": "kamilla.jalk@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 83,
+         "email": "frizolarq@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 84,
+         "email": "frizolarq@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 85,
+         "email": "laiz.goiss@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 86,
+         "email": "laiz.goiss@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 87,
+         "email": "arquiteta_laizabrito@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 88,
+         "email": "arquiteta_laizabrito@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 89,
+         "email": "larissaslv02@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 90,
+         "email": "larissaslv02@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 91,
+         "email": "larissademenezes.eng@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 92,
+         "email": "larissademenezes.eng@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 93,
+         "email": "lauralima.mail@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 94,
+         "email": "lauralima.mail@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 95,
+         "email": "engliviaferreiranunes@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 96,
+         "email": "lorena.soutto@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 97,
+         "email": "lorena.soutto@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 98,
+         "email": "luanahmelo20@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 99,
+         "email": "luanahmelo20@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 100,
+         "email": "lsv.engenharia@yahoo.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 101,
+         "email": "lsv.engenharia@yahoo.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 102,
+         "email": "luiza_lovo@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 103,
+         "email": "luiza_lovo@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 104,
+         "email": "marcela_pulcini@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 105,
+         "email": "marcela_pulcini@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 106,
+         "email": "robertinhaferreira@yahoo.com.br",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 107,
+         "email": "arqmariaeduarda@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 108,
+         "email": "arqmariaeduarda@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 109,
+         "email": "eduarda.silva2412@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 110,
+         "email": "mafferozz@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 111,
+         "email": "mafferozz@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 112,
+         "email": "ma.freitas95@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 113,
+         "email": "ma.freitas95@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 114,
+         "email": "mariane.almeidam@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 115,
+         "email": "mariane.almeidam@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 116,
+         "email": "micaele31@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 117,
+         "email": "micaele31@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 118,
+         "email": "marilia.mbc@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 119,
+         "email": "marilia.mbc@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 120,
+         "email": "marinacp25@yahoo.com.br",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 121,
+         "email": "marinacp25@yahoo.com.br",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 122,
+         "email": "marjoriediony123@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 123,
+         "email": "marjoriediony123@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 124,
+         "email": "monaliza.rita@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 125,
+         "email": "nath_alencar@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 126,
+         "email": "nath_alencar@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 127,
+         "email": "engnathyelefreitas@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 128,
+         "email": "engnathyelefreitas@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 129,
+         "email": "nayarareisp@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 130,
+         "email": "patriciapessoa95@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 131,
+         "email": "patriciapessoa95@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 132,
+         "email": "rafaellaengcivil@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 133,
+         "email": "rafaellaengcivil@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 134,
+         "email": "raisa.dorea@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 135,
+         "email": "rai9401@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 136,
+         "email": "rai9401@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 137,
+         "email": "eng.ramonsantos@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 138,
+         "email": "regina.srodrigues@yahoo.com.br",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 139,
+         "email": "regina.srodrigues@yahoo.com.br",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 140,
+         "email": "sso.moreira@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 141,
+         "email": "sso.moreira@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 142,
+         "email": "swyeannmelo@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 143,
+         "email": "taina-dantes@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 144,
+         "email": "taina-dantes@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 145,
+         "email": "eng_tais@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 146,
+         "email": "eng_tais@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 147,
+         "email": "tamara-nunes@live.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 148,
+         "email": "thaisitacaramby00@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 149,
+         "email": "thaise_karnopp@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 150,
+         "email": "thaise_karnopp@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 151,
+         "email": "thaiz.oaguiar@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 152,
+         "email": "thaiz.oaguiar@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 153,
+         "email": "vandrejoaquim@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 154,
+         "email": "vandrejoaquim@hotmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 155,
+         "email": "neumeneses@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 156,
+         "email": "neumeneses@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 157,
+         "email": "wcesar.arq.eng@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 158,
+         "email": "wcesar.arq.eng@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 159,
+         "email": "yohana.arq@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 160,
+         "email": "yohana.arq@gmail.com",
+         "turma": 4,
+         "isValidado": false
+        },
+        {
+         "id": 161,
+         "email": "nantiely.eng@gmail.com",
+         "turma": 3,
+         "isValidado": false
+        },
+        {
+         "id": 162,
+         "email": "liine.rm@hotmail.com",
+         "turma": 3,
+         "isValidado": false
+        },
+        {
+         "id": 163,
+         "email": "danielab-eng@hotmail.com",
+         "turma": 3,
+         "isValidado": false
+        },
+        {
+         "id": 164,
+         "email": "sandrabarros2003@hotmail.com",
+         "turma": 3,
+         "isValidado": false
+        },
+        {
+         "id": 165,
+         "email": "patricia.engciv@gmail.com",
+         "turma": 3,
+         "isValidado": false
+        },
+        {
+         "id": 166,
+         "email": "brunam_araujo@live.com",
+         "turma": 3,
+         "isValidado": false
+        },
+        {
+         "id": 167,
+         "email": "lorenatfernandes@gmail.com",
+         "turma": 3,
+         "isValidado": false
+        },
+        {
+         "id": 168,
+         "email": "debhorasoto@gmail.com",
+         "turma": 3,
+         "isValidado": false
+        },
+        {
+         "id": 169,
+         "email": "deborah_eng@icloud.com",
+         "turma": 3,
+         "isValidado": false
+        },
+        {
+         "id": 170,
+         "email": "olliveirap.amanda@gmail.com",
+         "turma": 3,
+         "isValidado": false
+        },
+        {
+         "id": 171,
+         "email": "marianahelena.arq@gmail.com",
+         "turma": 3,
+         "isValidado": false
+        },
+        {
+         "id": 172,
+         "email": "annabarroso.r@gmail.com",
+         "turma": 3,
+         "isValidado": false
+        },
+        {
+         "id": 173,
+         "email": "yasmim_bsb_@hotmail.com",
+         "turma": 3,
+         "isValidado": false
+        },
+        {
+         "id": 174,
+         "email": "nataliafischer1229@hotmail.com",
+         "turma": 3,
+         "isValidado": false
+        },
+        {
+         "id": 175,
+         "email": "engjackelinesantoro@gmail.com",
+         "turma": 3,
+         "isValidado": false
+        },
+        {
+         "id": 176,
+         "email": "mpg.eng@outlook.com",
+         "turma": 3,
+         "isValidado": false
+        },
+        {
+         "id": 177,
+         "email": "diovanalangner@hotmail.com",
+         "turma": 3,
+         "isValidado": false
+        },
+        {
+         "id": 178,
+         "email": "engenheira.irisleiamachado@gmail.com",
+         "turma": 3,
+         "isValidado": false
+        },
+        {
+         "id": 179,
+         "email": "ellaynebarrosoengenharia@gmail.com",
+         "turma": 3,
+         "isValidado": false
+        },
+        {
+         "id": 180,
+         "email": "luana_benatti@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 181,
+         "email": "danielesodre@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 182,
+         "email": "jane.kelem@yahoo.com.br",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 183,
+         "email": "elizinhamol@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 184,
+         "email": "valdir.mazulo@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 185,
+         "email": "regianefernanda2009@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 186,
+         "email": "alexandreviracao@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 187,
+         "email": "franciele.monteiro@live.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 188,
+         "email": "raayssamartins@outlook.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 189,
+         "email": "danielab-eng@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 190,
+         "email": "loraynne.diloreto@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 191,
+         "email": "pollianagroner@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 192,
+         "email": "jhayleanerc@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 193,
+         "email": "mhrosim@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 194,
+         "email": "kaicedavila@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 195,
+         "email": "carol_dalessandronery@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 196,
+         "email": "fabiana.qms@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 197,
+         "email": "fernanda_diias20@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 198,
+         "email": "isabelabar.sarmento@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 199,
+         "email": "juliana_f_7@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 200,
+         "email": "barbara.as13@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 201,
+         "email": "flira.arqurb@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 202,
+         "email": "janaandradearaujo@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 203,
+         "email": "lilianperez_70@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 204,
+         "email": "stefanie.calderaro@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 205,
+         "email": "dayannemattos@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 206,
+         "email": "deborah_eng@icloud.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 207,
+         "email": "kelltonsouza.edy@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 208,
+         "email": "thainapribeiro@outlook.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 209,
+         "email": "kimberlyw.au@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 210,
+         "email": "ctjovanovichs@ucs.br",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 211,
+         "email": "miriansilva.arquitetura@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 212,
+         "email": "arqmariaeduarda@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 213,
+         "email": "emilia.aarao@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 214,
+         "email": "gabrielaschuroff@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 215,
+         "email": "jamile.lima23@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 216,
+         "email": "luanacampos1993@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 217,
+         "email": "carolina.scudieri@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 218,
+         "email": "karol_falgemberg@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 219,
+         "email": "pimentel_margarida@yahoo.com.br",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 220,
+         "email": "andrade.cazinha@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 221,
+         "email": "flavianeengenheiracivil@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 222,
+         "email": "anaborges.eng@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 223,
+         "email": "rariane.fatima@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 224,
+         "email": "engmuniz@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 225,
+         "email": "tatianediaspassos@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 226,
+         "email": "mariane.purcino@yahoo.com.br",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 227,
+         "email": "annagabriela.arq@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 228,
+         "email": "barbarajovem.arq@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 229,
+         "email": "eng.ellenmayara@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 230,
+         "email": "thais.engenharia2013@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 231,
+         "email": "matheuslazaro@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 232,
+         "email": "marcely402@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 233,
+         "email": "luana_arquitetura@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 234,
+         "email": "debora.werika@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 235,
+         "email": "elisantonia_braga@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 236,
+         "email": "karynebarros11@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 237,
+         "email": "engpaolamarchi@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 238,
+         "email": "bahgalpaula@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 239,
+         "email": "lorrainegomes.arquitetura@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 240,
+         "email": "karinnyelias22@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 241,
+         "email": "neydianeeline@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 242,
+         "email": "fabigabrich@outlook.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 243,
+         "email": "sabrina.dlp@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 244,
+         "email": "stelinhateh@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 245,
+         "email": "engenharia.elinemenezes@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 246,
+         "email": "maressaealencar@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 247,
+         "email": "gracideluccagdl@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 248,
+         "email": "kamila_kucera@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 249,
+         "email": "arq.medullyariele@outlook.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 250,
+         "email": "vivi-trinkaus@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 251,
+         "email": "acs.eng@uea.edu.br",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 252,
+         "email": "renatarailles96@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 253,
+         "email": "natalybpinheiro@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 254,
+         "email": "matheusdgd8@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 255,
+         "email": "thayssaqueiroz.arq@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 256,
+         "email": "manu_kassiano@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 257,
+         "email": "melline.gois@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 258,
+         "email": "deymissonsouza@yahoo.com.br",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 259,
+         "email": "dlemospj@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 260,
+         "email": "sandraaguera@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 261,
+         "email": "ana.cbreis@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 262,
+         "email": "brunacomerlato@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 263,
+         "email": "dhessika.arq@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 264,
+         "email": "laryssadsv@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 265,
+         "email": "arq.anacr@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 266,
+         "email": "reginalopes96@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 267,
+         "email": "tamiresmendes01@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 268,
+         "email": "rafaelafmonnerat@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 269,
+         "email": "mattos.engenharia@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 270,
+         "email": "helomoncao@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 271,
+         "email": "lorranercichon@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 272,
+         "email": "projetos@carolinelombardi.com.br",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 273,
+         "email": "janinepedroso@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 274,
+         "email": "biancamoreira.eng@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 275,
+         "email": "simonemirandavieira@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 276,
+         "email": "andreacamposarq@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 277,
+         "email": "biamarcondesrj@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 278,
+         "email": "veronica.jsouza@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 279,
+         "email": "talitadvc@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 280,
+         "email": "sary7emili@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 281,
+         "email": "lyslieuk@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 282,
+         "email": "julyenyydebem@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 283,
+         "email": "analuiza_ssilveira@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 284,
+         "email": "malo.almeida.7@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 285,
+         "email": "brunacarniatto@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 286,
+         "email": "jaiannelarissa@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 287,
+         "email": "agv.eng@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 288,
+         "email": "gabi.olivic@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 289,
+         "email": "priscillaluna93@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 290,
+         "email": "camila_adorno@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 291,
+         "email": "brunaagoc@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 292,
+         "email": "vanessanegreirosmiranda@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 293,
+         "email": "tainan_karla@yahoo.com.br",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 294,
+         "email": "greici.rader@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 295,
+         "email": "aline_elisie94@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 296,
+         "email": "arq.julianybitencurt@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 297,
+         "email": "eng.michelerayane@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 298,
+         "email": "gessica4q@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 299,
+         "email": "ilana_silveira@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 300,
+         "email": "mourab.arquitetura@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 301,
+         "email": "andreza.ios@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 302,
+         "email": "diana_marques_@hotmail.com.br",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 303,
+         "email": "engenharia.jaqueline@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 304,
+         "email": "thaisaafrs@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 305,
+         "email": "camila.mendes.silva@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 306,
+         "email": "deborabmota0@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 307,
+         "email": "patricia_martinsferreira@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 308,
+         "email": "luizabroetto@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 309,
+         "email": "mhaisa.paula@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 310,
+         "email": "jessicacavalcante.m@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 311,
+         "email": "deboragomes95@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 312,
+         "email": "sabrinaraposo.arq@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 313,
+         "email": "rafaelahomena@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 314,
+         "email": "rafaelamgl@icloud.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 315,
+         "email": "arq.daia@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 316,
+         "email": "avaliacoes.lanna@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 317,
+         "email": "arqdeboralinhares@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 318,
+         "email": "valeriaalvesmacedo@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 319,
+         "email": "alinefabioladejesus@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 320,
+         "email": "karilamoraes@yahoo.com.br",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 321,
+         "email": "irisbeatriz_@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 322,
+         "email": "naiaratiengo@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 323,
+         "email": "jakeelliny@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 324,
+         "email": "andressagalliani@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 325,
+         "email": "vitorpsilva2010@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 326,
+         "email": "alineapareoliveira@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 327,
+         "email": "lumaaugusto@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 328,
+         "email": "sabrinafioroni6@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 329,
+         "email": "engbarbaraferraz@gmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 330,
+         "email": "vitoriasady@hotmail.com",
+         "turma": 5,
+         "isValidado": false
+        },
+        {
+         "id": 331,
+         "email": "luizafinger.arq@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 332,
+         "email": "mariliafontesf@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 333,
+         "email": "izabela.jorge@outlook.com.br",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 334,
+         "email": "rayssa.r.p@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 335,
+         "email": "eng.julianac@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 336,
+         "email": "louysemariejarre@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 337,
+         "email": "amanda_scherch@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 338,
+         "email": "thamyres.eng15@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 339,
+         "email": "larissadelazari@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 340,
+         "email": "danny.fern0910@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 341,
+         "email": "paloma.souza.da.silva@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 342,
+         "email": "jade.costeira@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 343,
+         "email": "engsilvana@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 344,
+         "email": "bruna.r.t@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 345,
+         "email": "isabela_oc@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 346,
+         "email": "danusa@lddarquitetura.com.br",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 347,
+         "email": "engelvismg@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 348,
+         "email": "marinagnata.arquitetura@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 349,
+         "email": "arq.jaquelinebarros@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 350,
+         "email": "raissapimentel2@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 351,
+         "email": "ludimilabraga_mg@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 352,
+         "email": "ingriid-reis@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 353,
+         "email": "alexandre.garziera@yahoo.com.br",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 354,
+         "email": "marcelhiapereira@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 355,
+         "email": "milenanunes_@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 356,
+         "email": "thamires.s.diniz@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 357,
+         "email": "deborah_eng@icloud.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 358,
+         "email": "kelltonsouza.edy@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 359,
+         "email": "engenheira.patriciah@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 360,
+         "email": "olivinharrodrigues@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 361,
+         "email": "arr.rangel@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 362,
+         "email": "dessa_bvb@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 363,
+         "email": "nubiamaria_28@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 364,
+         "email": "mari.amorim1626@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 365,
+         "email": "eng.robertaduarte@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 366,
+         "email": "mayaramelo.edf@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 367,
+         "email": "arianeoliveira.au@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 368,
+         "email": "vitoriammcosta@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 369,
+         "email": "thais_cbarbosa@yahoo.com.br",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 370,
+         "email": "arq.laiscbranco@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 371,
+         "email": "flaviafp.civil@yahoo.com.br",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 372,
+         "email": "munizgabriela19@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 373,
+         "email": "luizh.fernandes1@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 374,
+         "email": "talita@tfprojetos.com.br",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 375,
+         "email": "froz.thayna1@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 376,
+         "email": "mayra.vitorino@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 377,
+         "email": "gabigeraldelo@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 378,
+         "email": "karolengenharia@outlook.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 379,
+         "email": "ni.gomes15@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 380,
+         "email": "bialimacamara@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 381,
+         "email": "camilaraujor@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 382,
+         "email": "carlasetti@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 383,
+         "email": "andressalima.arq@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 384,
+         "email": "ana.zmbarquitetura@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 385,
+         "email": "caroline01araujo@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 386,
+         "email": "sandrely.morais@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 387,
+         "email": "joycecardoso.arquitetura@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 388,
+         "email": "deborges_silva@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 389,
+         "email": "ludimilabraga_mv@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 390,
+         "email": "ppalomaturmalina@yahoo.com.br",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 391,
+         "email": "lbaratabastos@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 392,
+         "email": "manuelealves@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 393,
+         "email": "joaandralima@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 394,
+         "email": "joicejso@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 395,
+         "email": "belanhoatto@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 396,
+         "email": "pgabriela.andrade@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 397,
+         "email": "leticia.alsena@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 398,
+         "email": "selmasilvasilveira@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 399,
+         "email": "jeanemanu.arquitetura@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 400,
+         "email": "studiorj.arqdesign@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 401,
+         "email": "mayara.mts@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 402,
+         "email": "cintiadalfior@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 403,
+         "email": "clerdjane@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 404,
+         "email": "lauss51@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 405,
+         "email": "rebecabrazs@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 406,
+         "email": "barbara-csantos@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 407,
+         "email": "deborahbrandaosouza@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 408,
+         "email": "mariana.oliveirar@outlook.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 409,
+         "email": "grazielleteixeiras@yahoo.com.br",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 410,
+         "email": "bettinapfreitas@hotmail.com.br",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 411,
+         "email": "karinabueno455@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 412,
+         "email": "evenbogos@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 413,
+         "email": "engenheiraleticia@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 414,
+         "email": "rmadriele@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 415,
+         "email": "ritaengsilva@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 416,
+         "email": "brunatrees@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 417,
+         "email": "jkfrancieli@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 418,
+         "email": "raysonaraa@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 419,
+         "email": "acarol.furquim@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 420,
+         "email": "patriciagarquitetura@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 421,
+         "email": "yasminrabeloeng@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 422,
+         "email": "larissavittorazzinp@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 423,
+         "email": "nyengsantos@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 424,
+         "email": "adrianec.aguiar@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 425,
+         "email": "adelia.catarine@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 426,
+         "email": "danielacamargo.souza@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 427,
+         "email": "danytheleemacedo@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 428,
+         "email": "raquel.fscar@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 429,
+         "email": "danielle.saucedo@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 430,
+         "email": "fernandamarins.arq@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 431,
+         "email": "nunesraiane201@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 432,
+         "email": "eng.katiasantos@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 433,
+         "email": "tayanekarlag3@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 434,
+         "email": "sullivancomander@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 435,
+         "email": "arq.patriciaribeiro@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 436,
+         "email": "v.c.engenhariacivil@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 437,
+         "email": "lianathury@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 438,
+         "email": "arq.fernandoayres@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 439,
+         "email": "maiza-s@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 440,
+         "email": "priscillaiellamo@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 441,
+         "email": "carinaribeiro100@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 442,
+         "email": "lorenamb188@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 443,
+         "email": "geisielle_karol@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 444,
+         "email": "jordanasoledadesc@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 445,
+         "email": "bbiatriz_oliveira.17@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 446,
+         "email": "rafaeladourado.arq@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 447,
+         "email": "maizasouza95@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 448,
+         "email": "arq.acricia@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 449,
+         "email": "gabriela.santos.p@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 450,
+         "email": "virginiaqlira@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 451,
+         "email": "brunasousaeng@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 452,
+         "email": "priscilaguimaraesengcivil@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 453,
+         "email": "beatriiz04@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 454,
+         "email": "nanda_varelasilva@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 455,
+         "email": "leticia.malp@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 456,
+         "email": "carol.ol.fe@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 457,
+         "email": "emily.mendes@live.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 458,
+         "email": "thabata.lachi@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 459,
+         "email": "viviangeier@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 460,
+         "email": "nsodre@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 461,
+         "email": "karinelima.arq@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 462,
+         "email": "tauanabertoldi@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 463,
+         "email": "millenapedroso13@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 464,
+         "email": "hemily.arq@outlook.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 465,
+         "email": "jessika-se@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 466,
+         "email": "piovezana.arq@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 467,
+         "email": "paolacortereal@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 468,
+         "email": "andressa.usf@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 469,
+         "email": "arquitetaandrezaandrade@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 470,
+         "email": "nathalia.rodriguesso.09@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 471,
+         "email": "sabrinapeca@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 472,
+         "email": "landa_matos@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 473,
+         "email": "jessicagust@outlook.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 474,
+         "email": "ludialmeida@outlook.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 475,
+         "email": "erikaaraujo.arq@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 476,
+         "email": "carla_guarsoni@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 477,
+         "email": "evelise_moraes@hotmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 478,
+         "email": "gabrielarosa.arq@gmail.com",
+         "turma": 6,
+         "isValidado": false
+        },
+        {
+         "id": 479,
+         "email": "eng.civil.adiele@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 480,
+         "email": "adrianagomesdq@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 481,
+         "email": "yamaguchiakemi03@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 482,
+         "email": "ale.tajiri@bol.com.br",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 483,
+         "email": "alinedecastro_1@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 484,
+         "email": "eng.alinepj@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 485,
+         "email": "q.portelaa@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 486,
+         "email": "aline.meltzer@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 487,
+         "email": "alinenholz@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 488,
+         "email": "allynne.kam@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 489,
+         "email": "afontenele38@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 490,
+         "email": "Amanda_maira03@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 491,
+         "email": "bia_felici@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 492,
+         "email": "carolinamoreira.arq@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 493,
+         "email": "rol.1994@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 494,
+         "email": "anaflaviotaz@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 495,
+         "email": "analuisa.ms2@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 496,
+         "email": "analeal.eng@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 497,
+         "email": "anapaulamoreira03@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 498,
+         "email": "ana_smania@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 499,
+         "email": "andreleao01@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 500,
+         "email": "arqandreiavieira@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 501,
+         "email": "andressa.am@feevale.br",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 502,
+         "email": "andressaprado16@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 503,
+         "email": "andrezzapaula@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 504,
+         "email": "annablins@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 505,
+         "email": "carolmenezes082@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 506,
+         "email": "aryane.ksr@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 507,
+         "email": "babisantanna@yahoo.com.br",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 508,
+         "email": "Beatrizdsantos.engcivil@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 509,
+         "email": "bianquinag@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 510,
+         "email": "marcelacandido.arq@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 511,
+         "email": "brenoborba55@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 512,
+         "email": "bruna_bbaguiar@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 513,
+         "email": "brunna.andrade.ba@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 514,
+         "email": "brunamariliabs@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 515,
+         "email": "brunatrevizan2009@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 516,
+         "email": "brunnasouzaarquitetura@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 517,
+         "email": "Brunosoh@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 518,
+         "email": "camilaqsr@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 519,
+         "email": "camilamangarosa@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 520,
+         "email": "camila_sribas@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 521,
+         "email": "CARLINACASSIANE@gMAIL.COM",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 522,
+         "email": "carlos.barbacovi@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 523,
+         "email": "arquiteta.carolinaoliveira@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 524,
+         "email": "carolcsarq@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 525,
+         "email": "engenharia.carol@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 526,
+         "email": "ellenjacobino.engenhariacivil@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 527,
+         "email": "carolmidori12@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 528,
+         "email": "carolineleenm@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 529,
+         "email": "carol_petniunas@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 530,
+         "email": "scassiakarina@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 531,
+         "email": "engceliasf@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 532,
+         "email": "celinaizar@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 533,
+         "email": "gc_cintia@yahoo.com.br",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 534,
+         "email": "clariana.cunha@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 535,
+         "email": "claudia@grupoferrer.arq.br",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 536,
+         "email": "cleidianne.alves@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 537,
+         "email": "cleidianny_alves@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 538,
+         "email": "cleria.andrads@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 539,
+         "email": "cristianedosanjos2011@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 540,
+         "email": "crisrodriguesbtu@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 541,
+         "email": "cvrengenharia@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 542,
+         "email": "daianacoelhobayer@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 543,
+         "email": "dmgmarquiteturaeengenharia@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 544,
+         "email": "danielle.saranh@yahoo.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 545,
+         "email": "danubia_henriques@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 546,
+         "email": "dayannebozzi@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 547,
+         "email": "dehzinhaax@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 548,
+         "email": "vasconcelos.deborah@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 549,
+         "email": "denisemacedo268@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 550,
+         "email": "djeloeng@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 551,
+         "email": "laine-paula@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 552,
+         "email": "edilainevmartins@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 553,
+         "email": "edneiapereira2013@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 554,
+         "email": "engcivileliz@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 555,
+         "email": "betharquiteta@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 556,
+         "email": "eliziane.arquitetura@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 557,
+         "email": "eltomatos@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 558,
+         "email": "enyo.andrade1991@yahoo.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 559,
+         "email": "arq.ericabaronio@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 560,
+         "email": "erick_julho@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 561,
+         "email": "erilannyfarias@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 562,
+         "email": "eve.silveira@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 563,
+         "email": "Evelyn.sbraz@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 564,
+         "email": "evelyne4@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 565,
+         "email": "fabianabonesi@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 566,
+         "email": "fabio.luan@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 567,
+         "email": "fabricia.arquiteta@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 568,
+         "email": "fecuzzuol@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 569,
+         "email": "fernandaj18@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 570,
+         "email": "engenheiroflavio@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 571,
+         "email": "eng.gabrielacosta@outlook.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 572,
+         "email": "gabriela.motta@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 573,
+         "email": "gabrielaoliveira2507@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 574,
+         "email": "gabriellaiglezias@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 575,
+         "email": "gerlanecarneiro@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 576,
+         "email": "g.c.0@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 577,
+         "email": "giovannahelenlima@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 578,
+         "email": "gisele.gomes16@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 579,
+         "email": "glaucia.manuela@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 580,
+         "email": "roquegle3@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 581,
+         "email": "graciele_sagaz@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 582,
+         "email": "graz.i.caldas@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 583,
+         "email": "eng.hianasimoes@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 584,
+         "email": "ingridneres.arq@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 585,
+         "email": "isabel@isabelrangel.com.br",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 586,
+         "email": "isabelaalda1609@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 587,
+         "email": "isabelafraresso@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 588,
+         "email": "belaggabi@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 589,
+         "email": "isabella.noronhas@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 590,
+         "email": "isa_policarpo@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 591,
+         "email": "Isadoramed@icloud.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 592,
+         "email": "ivanengecom@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 593,
+         "email": "ivaniasilvadelima@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 594,
+         "email": "izabel.sor@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 595,
+         "email": "iza_zanon@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 596,
+         "email": "icamposguarim@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 597,
+         "email": "iza_kazimirski@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 598,
+         "email": "Jarconecta.engenharia@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 599,
+         "email": "jefferson.pirlo@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 600,
+         "email": "jensmendes@outlook.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 601,
+         "email": "jennifervonrondove@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 602,
+         "email": "jessicadagama@outlook.com.br",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 603,
+         "email": "jessi.ribeiro@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 604,
+         "email": "Jsk.88@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 605,
+         "email": "jessicasuzarte75@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 606,
+         "email": "jes.ataide@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 607,
+         "email": "Josy.freitas06@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 608,
+         "email": "joyce.santos0755@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 609,
+         "email": "joycefarq@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 610,
+         "email": "julianafrazaoarquitetura@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 611,
+         "email": "arqjulianaiglesias@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 612,
+         "email": "juliesventurini12@yahoo.com.br",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 613,
+         "email": "julio.oliveira@intervip.net.br",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 614,
+         "email": "jullyana.gs@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 615,
+         "email": "kamyla.nelson@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 616,
+         "email": "karinaketleymelo@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 617,
+         "email": "karinelcaldas@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 618,
+         "email": "karol.ana.lima@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 619,
+         "email": "eng.karol_sousa@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 620,
+         "email": "kcrdamaceno@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 621,
+         "email": "KELLYCRISBR@GMAIL.COM",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 622,
+         "email": "Krisbrito.eng@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 623,
+         "email": "laisbezerra.arquiteta@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 624,
+         "email": "larajordannagborges@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 625,
+         "email": "lararezenderibeiro@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 626,
+         "email": "silvaaacf@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 627,
+         "email": "larissa_slaviero@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 628,
+         "email": "larissa.yuri.barbosa@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 629,
+         "email": "lays_oliveira_santos@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 630,
+         "email": "civil.leandrogomes@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 631,
+         "email": "setsuya@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 632,
+         "email": "leenamonteiro23@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 633,
+         "email": "leilanunes@msn.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 634,
+         "email": "leslietamboril@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 635,
+         "email": "leticiasx@live.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 636,
+         "email": "leticiaamaciiel@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 637,
+         "email": "le_n_rinaldi@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 638,
+         "email": "lianesfernandes@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 639,
+         "email": "lufreire96@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 640,
+         "email": "luanna_eng@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 641,
+         "email": "luanapassos2013@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 642,
+         "email": "luana.mastergeo@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 643,
+         "email": "Lucas_roza@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 644,
+         "email": "ltavares_@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 645,
+         "email": "luciana_cousseau@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 646,
+         "email": "lucianarquitetura@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 647,
+         "email": "dt.nualvo@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 648,
+         "email": "ludmilla.asm@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 649,
+         "email": "luisa.alves.silva@hotmailmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 650,
+         "email": "luiz.r.aureliano@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 651,
+         "email": "maicon.douglas150@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 652,
+         "email": "maisa_fdj@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 653,
+         "email": "eng.eloim@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 654,
+         "email": "marcellydepaulam@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 655,
+         "email": "angelicamarcattiarquiteta@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 656,
+         "email": "mariaclara.a.m.o@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 657,
+         "email": "udeferrari@yahoo.com.br",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 658,
+         "email": "maria_larissa00@outlook.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 659,
+         "email": "maluizabraga@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 660,
+         "email": "arquitetatherezacoelho@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 661,
+         "email": "mary.pizzo@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 662,
+         "email": "marianasouzatst@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 663,
+         "email": "mcatuchi@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 664,
+         "email": "josinomarilia@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 665,
+         "email": "Marinadf1403@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 666,
+         "email": "mayaramoraes67@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 667,
+         "email": "mike.bryan1607@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 668,
+         "email": "milenabarbosa.arq@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 669,
+         "email": "milenacoelhoarquitetura@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 670,
+         "email": "ANDRADEPERICIASEAVALIACOES@HOTMAIL.COM",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 671,
+         "email": "mirianporto4@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 672,
+         "email": "moisesgcavalcanti@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 673,
+         "email": "nadiasolana_imi@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 674,
+         "email": "nararocha.arq@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 675,
+         "email": "nara.lima.oliveira@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 676,
+         "email": "arq.nataliabarbosa@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 677,
+         "email": "na_bey@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 678,
+         "email": "arqeng.lira@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 679,
+         "email": "nathaliiadeleon@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 680,
+         "email": "Nathaliewl1@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 681,
+         "email": "na.leal@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 682,
+         "email": "nayara.lorrayen@outlook.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 683,
+         "email": "NELLYTHACAMPOS@GMAIL.COM",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 684,
+         "email": "nerizemcl@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 685,
+         "email": "pablo.edu1226@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 686,
+         "email": "palloma.csd@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 687,
+         "email": "pam_rayara@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 688,
+         "email": "paty_tews@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 689,
+         "email": "patty.29@live.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 690,
+         "email": "PATRICIA.GUEDESALMEIDA@OUTLOOK.COM",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 691,
+         "email": "prisciladamiao.civil@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 692,
+         "email": "priscila.snogueira@outlook.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 693,
+         "email": "priscilaluizahorn@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 694,
+         "email": "pereirac.priscila@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 695,
+         "email": "priscila_veroneze100@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 696,
+         "email": "rafaelaf-costa@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 697,
+         "email": "rafinhafisioergonomia@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 698,
+         "email": "rafaellacaldas.arq@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 699,
+         "email": "Acm14engenharia@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 700,
+         "email": "eng.granada@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 701,
+         "email": "ray.queiroz2@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 702,
+         "email": "rayane.acacio07@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 703,
+         "email": "engrenatanayara@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 704,
+         "email": "R.verissimo03@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 705,
+         "email": "rg_40@hormail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 706,
+         "email": "dannyrovene@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 707,
+         "email": "ruanytamurieloliveira@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 708,
+         "email": "rubens.civileng@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 709,
+         "email": "eng.sheylabrito@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 710,
+         "email": "alexinamartins@yahoo.com.br",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 711,
+         "email": "ferraristephanni@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 712,
+         "email": "suely_so@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 713,
+         "email": "taianakfouri@outlook.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 714,
+         "email": "tainag.arq@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 715,
+         "email": "tainasales.batista@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 716,
+         "email": "tanicivil@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 717,
+         "email": "tatianafortes.arq@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 718,
+         "email": "tatiane.inhaus@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 719,
+         "email": "tatianylage@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 720,
+         "email": "tay.queiroz.franco@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 721,
+         "email": "thainalucymaia.tl@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 722,
+         "email": "thais.cartorio@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 723,
+         "email": "thaisclaus@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 724,
+         "email": "thaizavellar@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 725,
+         "email": "thayllis.luna@outlook.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 726,
+         "email": "thiagohqalmeida@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 727,
+         "email": "tiagomaltezo@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 728,
+         "email": "tissisouza@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 729,
+         "email": "arq.valeriaroma@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 730,
+         "email": "vanecasaril@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 731,
+         "email": "Eng.vankelly@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 732,
+         "email": "Vanessasboldrini@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 733,
+         "email": "vivianecosta.int@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 734,
+         "email": "wedjamichaely@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 735,
+         "email": "welintton@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 736,
+         "email": "wendyjabour@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 737,
+         "email": "whitney.100@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 738,
+         "email": "ywkarysilva@hotmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 739,
+         "email": "bruna@trdtransportes.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 740,
+         "email": "fabianatesser@yahoo.com.br",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 741,
+         "email": "priscilla.urbanismo@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 742,
+         "email": "Cintiaazevedo97@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 743,
+         "email": "elicleidebastos@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        },
+        {
+         "id": 744,
+         "email": "ranielycosta.engenheiracivil@gmail.com",
+         "turma": 7,
+         "isValidado": false
+        }
+       ]
+}
+
